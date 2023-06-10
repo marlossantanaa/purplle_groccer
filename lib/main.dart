@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:purplle_groccer/src/auth/sign_in_screen.dart';
+
+import 'package:purplle_groccer/src/pages/auth/sign_in_screen.dart';
 
 void main() {
   runApp(const MyApp());
